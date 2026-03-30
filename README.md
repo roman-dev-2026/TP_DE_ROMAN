@@ -1,7 +1,11 @@
  13/03/2026
+
  Área: Programación de aplicaciones para dispositivos móviles.
+
  Tema: Diagnostico
+
  Nombre y apellido: Maldonado Roman Omar
+ 
  Preguntas:
  1.	¿a que nos referimos cuando hablamos de app?
  2.	¿Qué es el frontend y que es el backend? ¿De una definición con sus propias palabras y explique cómo se comunican habitualmente?
