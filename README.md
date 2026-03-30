@@ -1,6 +1,6 @@
  13/03/2026
 
- Área: Programación de aplicaciones para dispositivos móviles.
+ Área: Programación de aplicaciones para dispositivos móviles.![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://![alt text](Imagen1.png)
 
  Tema: Diagnostico
 
