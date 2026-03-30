@@ -1,18 +1,18 @@
-# 13/03/2026
-# Área: Programación de aplicaciones para dispositivos móviles.
-# Tema: Diagnostico
-# Nombre y apellido: Maldonado Roman Omar
-# Preguntas:
-# 1.	¿a que nos referimos cuando hablamos de app?
-# 2.	¿Qué es el frontend y que es el backend? ¿De una definición con sus propias palabras y explique cómo se comunican habitualmente?
-# 3.	¿Qué es una API REST? ¿Cuál es su función principal cuando desarrollamos una aplicación para dispositivos móviles?
-# 4.	¿Qué es el formato JSON? Escribe un ejemplo simple de cómo se vería un objeto “alumno” con nombre, apellido y una lista de 3 notas en este formato.
-# 5.	¿Qué es una librería o biblioteca y que es un framework? ¿Son lo mismo? Justifique su respuesta.
-# 6.	¿Qué es un sistema de control de versiones y para qué sirve? Explique que sucede si 2 desarrolladores modifican la misma línea de código en el mismo archivo y como se resuelve.
-# 7.	¿Qué es la programación orientada a objetos (POO)? Define brevemente los conceptos de clase, objeto y herencia.
-# 8.	¿Cuál es el propósito de los modificadores de acceso public y private en el contexto de la programación orientada a objetos?
-# 9.	Explique las principales diferencias entre los sistemas operativos IOS (iPhone) y Android desde el punto de vista del desarrollo (lenguajes nativos, tiendas de aplicaciones y tipos de dispositivos). Además, mencione si conoce algún otro sistema operativo para móviles que exista o haya existido en el mercado.
-# 10.	 ¿Cómo piensa que una aplicación móvil podría facilitar la vida de una persona con discapacidad visual en las lajitas?
+ 13/03/2026
+ Área: Programación de aplicaciones para dispositivos móviles.
+ Tema: Diagnostico
+ Nombre y apellido: Maldonado Roman Omar
+ Preguntas:
+ 1.	¿a que nos referimos cuando hablamos de app?
+ 2.	¿Qué es el frontend y que es el backend? ¿De una definición con sus propias palabras y explique cómo se comunican habitualmente?
+ 3.	¿Qué es una API REST? ¿Cuál es su función principal cuando desarrollamos una aplicación para dispositivos móviles?
+ 4.	¿Qué es el formato JSON? Escribe un ejemplo simple de cómo se vería un objeto “alumno” con nombre, apellido y una lista de 3 notas en este formato.
+ 5.	¿Qué es una librería o biblioteca y que es un framework? ¿Son lo mismo? Justifique su respuesta.
+ 6.	¿Qué es un sistema de control de versiones y para qué sirve? Explique que sucede si 2 desarrolladores modifican la misma línea de código en el mismo archivo y como se resuelve.
+ 7.	¿Qué es la programación orientada a objetos (POO)? Define brevemente los conceptos de clase, objeto y herencia.
+ 8.	¿Cuál es el propósito de los modificadores de acceso public y private en el contexto de la programación orientada a objetos?
+ 9.	Explique las principales diferencias entre los sistemas operativos IOS (iPhone) y Android desde el punto de vista del desarrollo (lenguajes nativos, tiendas de aplicaciones y tipos de dispositivos). Además, mencione si conoce algún otro sistema operativo para móviles que exista o haya existido en el mercado.
+ 10.	 ¿Cómo piensa que una aplicación móvil podría facilitar la vida de una persona con discapacidad visual en las lajitas?
 # DESARROLLO
 # 1.	¿a que nos referimos cuando hablamos de app? #0941da
  Un conjunto de programas diseñados para ejecutarse en dispositivos móviles como teléfonos, tablets, relojes. Para realizar una tarea especifica como redes sociales, juegos, herramientas de producción. Se descargan desde las tiendas o paginas oficiales.
