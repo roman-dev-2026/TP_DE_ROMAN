@@ -50,8 +50,8 @@
 # Dispositivos	Exclusivo de hardware Apple (iPhone)	Multimarca (Samsung, Xiaomi, Pixel, etc.)
 # Otros sistemas: Históricamente han existido Windows Phone/Mobile, BlackBerry OS, Symbian (Nokia) y actualmente existen alternativas como HarmonyOS (Huawei).
 # 10.	Tecnología y Discapacidad Visual.
-# Una aplicación móvil puede ser una herramienta transformadora mediante:
-# Lectores de pantalla: Conversión de texto a voz (TalkBack/VoiceOver).
-# Reconocimiento de IA: Identificación de objetos, colores o lectura de billetes en tiempo real usando la cámara.
-# Navegación asistida: GPS de alta precisión con instrucciones auditivas detalladas sobre cruces y obstáculos.
-# Asistentes de voz: Permitir el control total del dispositivo sin necesidad de interactuar físicamente con la pantalla táctil.
+### Una aplicación móvil puede ser una herramienta transformadora mediante:
+### Lectores de pantalla: Conversión de texto a voz (TalkBack/VoiceOver).
+### Reconocimiento de IA: Identificación de objetos, colores o lectura de billetes en tiempo real usando la cámara.
+### Navegación asistida: GPS de alta precisión con instrucciones auditivas detalladas sobre cruces y obstáculos.
+### Asistentes de voz: Permitir el control total del dispositivo sin necesidad de interactuar físicamente con la pantalla táctil.
