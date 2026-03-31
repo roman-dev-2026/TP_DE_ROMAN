@@ -1,3 +1,4 @@
+ <img src="tu_foto.png" align="right" width="150" height="150" alt="Foto de Román">
  13/03/2026
 
  Área: Programación de aplicaciones para dispositivos móviles.
