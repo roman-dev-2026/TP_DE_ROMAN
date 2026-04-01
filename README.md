@@ -17,7 +17,7 @@
  8.	¿Cuál es el propósito de los modificadores de acceso public y private en el contexto de la programación orientada a objetos?
  9.	Explique las principales diferencias entre los sistemas operativos IOS (iPhone) y Android desde el punto de vista del desarrollo (lenguajes nativos, tiendas de aplicaciones y tipos de dispositivos). Además, mencione si conoce algún otro sistema operativo para móviles que exista o haya existido en el mercado.
  10.	 ¿Cómo piensa que una aplicación móvil podría facilitar la vida de una persona con discapacidad visual en las lajitas?
-       # DESARROLLO
+ DESARROLLO
 ### 1.	¿a que nos referimos cuando hablamos de app? 
  Un conjunto de programas diseñados para ejecutarse en dispositivos móviles como teléfonos, tablets, relojes. Para realizar una tarea especifica como redes sociales, juegos, herramientas de producción. Se descargan desde las tiendas o paginas oficiales.
 ### 2.	¿Qué es el frontend y que es el backend? ¿De una definición con sus propias palabras y explique cómo se comunican habitualmente? 
